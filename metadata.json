@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Auto Detailing",
+  "description": "Premium mobile auto detailing services across the United States. Your drive deserves better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
